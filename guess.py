@@ -1,8 +1,3 @@
-#I want to have the program choose a number between x and y.  I want the user to have to guess the number.
-#If the guess is too high, they will be told that it's too high
-#If it's too low.  They will be told that it's too low
-
-
 import random
 
 number = random.randint(1,1000000)
